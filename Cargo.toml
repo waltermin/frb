@@ -1,8 +1,12 @@
 [package]
 name = "frb"
+description = "Fast, random bijections in O(1) memory"
+repository = "https://github.com/waltermin/frb"
+readme = "README.md"
 version = "0.1.0"
 edition = "2024"
 license = "MIT OR Apache-2.0"
+keywords = ["bijection", "random", "shuffle"]
 
 [dev-dependencies]
 criterion = "0.5"
