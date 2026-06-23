@@ -1,3 +1,5 @@
+#![no_std]
+
 //! # frb — fast random bijection
 //!
 //! A seedable, O(1)-memory pseudorandom bijection (permutation) over
